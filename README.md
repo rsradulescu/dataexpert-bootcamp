@@ -2,8 +2,7 @@
 
 ## Getting started
 
-(This is a coned repo from [DataExpert.io](https://github.com/DataExpert-io) with my solutions to the course)
-If you are new to data engineering, start by following this [2024 breaking into data engineering roadmap](https://blog.dataengineer.io/p/the-2024-breaking-into-data-engineering)
+(This is a cloned repo from [DataExpert.io](https://github.com/DataExpert-io) with my solutions to the course)
 
 If you are here for the [6-week free YouTube boot camp](https://youtu.be/myhe0LXpCeo) you can check out
 - [introduction](bootcamp/introduction.md)
