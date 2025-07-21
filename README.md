@@ -1,10 +1,8 @@
 # The Data Engineering Handbook
-<a href="https://trendshift.io/repositories/8755" target="_blank"><img src="https://trendshift.io/api/badge/repositories/8755" alt="DataExpert-io%2Fdata-engineer-handbook | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-
-This repo has all the resources you need to become an amazing data engineer!
 
 ## Getting started
 
+(This is a coned repo from [DataExpert.io](https://github.com/DataExpert-io) with my solutions to the course)
 If you are new to data engineering, start by following this [2024 breaking into data engineering roadmap](https://blog.dataengineer.io/p/the-2024-breaking-into-data-engineering)
 
 If you are here for the [6-week free YouTube boot camp](https://youtu.be/myhe0LXpCeo) you can check out
